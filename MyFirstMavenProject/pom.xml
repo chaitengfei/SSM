@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.ctf</groupId>
+    <artifactId>MyFirstMavenProject</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>itrap-beans</module>
+        <module>itrap-utils</module>
+        <module>itrap-dao</module>
+        <module>itrap-service</module>
+        <module>itrap-search</module>
+        <module>itrap-auth</module>
+        <module>itrap-trade</module>
+    </modules>
+
+    <distributionManagement>
+        <repository>
+            <id>releases</id><!--ID需要与你的release仓库的Repository ID一致-->
+            <url>http://192.168.136.130:8081/nexus/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id><!-- ID需要与你的snapshots仓库的Repository ID一致-->
+            <url>http://192.168.136.130:8081/nexus/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
+    <repositories>
+        <repository>
+            <id>public</id>
+            <name>Team Maven Repository</name>
+            <url>http://192.168.136.130:8081/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled><!--是否支持更新-->
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+</project>

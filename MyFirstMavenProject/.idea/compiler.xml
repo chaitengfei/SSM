@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itrapauth" />
+        <module name="itrapbeans" />
+        <module name="itrapdao" />
+        <module name="itrapsearch" />
+        <module name="itrapservice" />
+        <module name="itraptrade" />
+        <module name="itraputils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
