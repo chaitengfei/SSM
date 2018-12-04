@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrap-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrap-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrap-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrap-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrap-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrap-trade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itrap-utils" charset="UTF-8" />
+  </component>
+</project>

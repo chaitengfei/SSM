@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itrapservice:war">
+    <output-path>$PROJECT_DIR$/itrap-service/target</output-path>
+    <root id="archive" name="itrap-service.war">
+      <element id="artifact" artifact-name="itrapservice:war exploded" />
+    </root>
+  </artifact>
+</component>

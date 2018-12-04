@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itrapauth:war">
+    <output-path>$PROJECT_DIR$/itrap-auth/target</output-path>
+    <root id="archive" name="itrap-auth.war">
+      <element id="artifact" artifact-name="itrapauth:war exploded" />
+    </root>
+  </artifact>
+</component>
