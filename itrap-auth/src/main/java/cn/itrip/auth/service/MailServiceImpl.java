@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import cn.itrip.common.RedisAPI;
 /**
  * 邮件发送接口的实现
- * @author hduser
+ * @author A
  *
  */
 @Service("mailService")

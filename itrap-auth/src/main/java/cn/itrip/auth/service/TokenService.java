@@ -31,13 +31,13 @@ public interface TokenService {
 	 *  	<BR/>
 	 *  	Android：“前缀ANDROID-USERCODE-USERID-CREATIONDATE-RONDEM[6位]”
 	 */
-	public String generateToken(String agent,ItripUser user);
+	public String generateToken(String agent, ItripUser user);
 	/**
 	 * 保存用户信息至redis
 	 * @param tokenID
 	 * @param user
 	 */
-	public void save(String token,ItripUser user);
+	public void save(String token, ItripUser user);
 	/**
 	 * 从redis获取用户信息
 	 * @param tokenID
@@ -61,7 +61,7 @@ public interface TokenService {
 	 * @return 新的token
 	 * @throws TokenValidationFailedException 
 	 */	
-	public String replaceToken(String agent,String token) throws TokenValidationFailedException;
+	public String replaceToken(String agent, String token) throws TokenValidationFailedException;
 	
 	/**
 	 * 验证token是否有效
@@ -69,5 +69,5 @@ public interface TokenService {
 	 * @param token
 	 * @return
 	 */
-	public boolean validate(String agent,String token);
+	public boolean validate(String agent, String token);
 }

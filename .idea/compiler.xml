@@ -17,7 +17,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="itrip-project" target="1.5" />
-      <module name="MyFirstMavenProject" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

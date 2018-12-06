@@ -17,7 +17,6 @@
           <element id="library" level="project" name="Maven: cz.mallat.uasparser:uasparser:0.6.0" />
           <element id="library" level="project" name="Maven: net.sourceforge.jregex:jregex:1.2_01" />
           <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.23" />
-          <element id="library" level="project" name="Maven: com.ctf:CCP_REST_SMS_SDK_JAVA:2.6.3r" />
           <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
           <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
           <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.2.1.Final" />
