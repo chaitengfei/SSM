@@ -22,7 +22,7 @@ import javax.annotation.Resource;
  * @author hduser
  *
  */
-@Service("useService")
+@Service("userService")
 public class UserServiceImpl implements UserService {
 
 	private Logger logger=Logger.getLogger(UserServiceImpl.class);
@@ -42,7 +42,7 @@ public class UserServiceImpl implements UserService {
      */
     public void itriptxCreateUser(ItripUser user) throws Exception { 
     	//发送激活邮件
-		String activationCode = MD5.getMd5(new Date().toLocaleString(), 32);
+		String activationCode = MD5.getMd5(String.valueOf(Calendar.getInstance().getTimeInMillis()), 32);
 		mailService.sendActivationMail(user.getUserCode(), activationCode);
 		//保存用户信息
 		itripUserMapper.insertItripUser(user);
