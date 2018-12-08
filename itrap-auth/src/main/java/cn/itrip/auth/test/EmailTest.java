@@ -15,7 +15,7 @@ public class EmailTest {
         UserService itripUserService  = (UserService) applicationContext.getBean("userService");
         ItripUser user = new ItripUser();
         user.setUserName("测试");
-        user.setUserCode("321922669@qq.com");
+        user.setUserCode("1395758421@qq.com");
         try {
             itripUserService.itriptxCreateUser(user);
         } catch (Exception e) {
