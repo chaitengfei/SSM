@@ -348,8 +348,6 @@
       <change afterPath="$PROJECT_DIR$/itrap-search/target/itrap-search/WEB-INF/lib/uasparser-0.6.0.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/itrap-search/target/itrap-search/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/itrap-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itrap-service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itrap-service/src/main/webapp/index.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/itrap-service/target/itrap-service/META-INF/MANIFEST.MF" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/itrap-service/target/itrap-service/WEB-INF/lib/ant-1.9.6.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/itrap-service/target/itrap-service/WEB-INF/lib/ant-launcher-1.9.6.jar" afterDir="false" />
@@ -532,6 +530,11 @@
       <change afterPath="$PROJECT_DIR$/itrap-utils/target/maven-archiver/pom.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/itrap-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatest/src/com/ctf/test/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatest/src/com/ctf/test/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javatest/src/com/ctf/test/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/itrap-search/target/" />
     <ignored path="$PROJECT_DIR$/itrap-trade/target/" />
@@ -551,146 +554,113 @@
     <session id="1980747543">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.19" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="58" />
-          <entry key="properties" value="8" />
-          <entry key="xml" value="20" />
+          <entry key="java" value="72" />
+          <entry key="properties" value="11" />
+          <entry key="xml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="58" />
-          <entry key="Properties" value="8" />
-          <entry key="XML" value="20" />
+          <entry key="JAVA" value="72" />
+          <entry key="Properties" value="11" />
+          <entry key="XML" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1138" />
-          <entry key="properties" value="45" />
+          <entry key="java" value="1139" />
+          <entry key="properties" value="61" />
           <entry key="txt" value="10" />
           <entry key="xml" value="216" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1138" />
+          <entry key="JAVA" value="1139" />
           <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Properties" value="45" />
+          <entry key="Properties" value="61" />
           <entry key="XML" value="216" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/controller/SwaggerConfig.java">
+        <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="25">
+              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/beans/SearchHotelVO.java">
+        <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/SwaggerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-102">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/controller/HotelListController.java">
+        <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/TokenController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="23">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/webapp/WEB-INF/web.xml">
+        <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="-2">
+              <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/applicationContext-mybatis.xml">
+        <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/VendorsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="55" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="55" />
+            <state relative-caret-position="173">
+              <caret line="45" column="3" lean-forward="true" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/database.properties">
+        <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/exception/TokenValidationFailedException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="225">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/springmvc-servlet.xml">
+        <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/service/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/service/SearchHotelServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="175">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -704,6 +674,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>copy</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -734,6 +709,9 @@
         <option value="$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/controller/HotelListController.java" />
         <option value="$PROJECT_DIR$/itrap-search/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/itrap-search/src/main/resources/database.properties" />
+        <option value="$PROJECT_DIR$/itrap-service/src/main/resources/database.properties" />
+        <option value="$PROJECT_DIR$/itrap-service/src/main/java/cn/itrip/service/orderlinkuser/ItripOrderLinkUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/itrap-service/src/main/java/cn/itrip/controller/UserInfoController.java" />
       </list>
     </option>
   </component>
@@ -780,6 +758,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -816,115 +795,53 @@
             <path>
               <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
+              <item name="itrap-auth" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
+              <item name="itrap-auth" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itrip" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itrip" type="462c0819:PsiDirectoryNode" />
-              <item name="beans" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
+              <item name="itrap-auth" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itrip" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
+              <item name="itrap-auth" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="itrip" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyFirstMavenProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyFirstMavenProject" type="462c0819:PsiDirectoryNode" />
-              <item name="itrap-search" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544316630285" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544403130015" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -1088,7 +1005,9 @@
       <workItem from="1544251924085" duration="2430000" />
       <workItem from="1544254415301" duration="6952000" />
       <workItem from="1544314607781" duration="2053000" />
-      <workItem from="1544316958933" duration="642000" />
+      <workItem from="1544316958933" duration="6041000" />
+      <workItem from="1544401741874" duration="1495000" />
+      <workItem from="1544665007042" duration="1386000" />
     </task>
     <servers />
   </component>
@@ -1125,7 +1044,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44824000" />
+    <option name="totallyTimeSpent" value="53104000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1138,8 +1057,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6176991" visible="true" weight="0.17226666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6176991" visible="true" weight="0.17546667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1155,9 +1075,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49973333" visible="true" weight="0.22271715" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5002667" side_tool="true" weight="0.33296213" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3507795" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4992" weight="0.30589545" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008" side_tool="true" weight="0.3062361" />
+      <window_info anchor="bottom" id="Messages" order="9" visible="true" weight="0.3507795" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
@@ -1227,56 +1147,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="2018-12-08" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-beans/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/service/SmsServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/TokenController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-dao/src/main/java/cn/itrip/dao/itripUser/ItripUserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-dao/src/main/java/cn/itrip/dao/itripUser/ItripUserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2925" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/service/SmsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itrap-auth/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1295,13 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1340,13 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="55" column="64" selection-start-line="55" selection-start-column="64" selection-end-line="55" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -1399,20 +1255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/exception/TokenValidationFailedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itrap-search/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -1445,9 +1287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1467,31 +1306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/controller/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="200">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/beans/SearchHotelVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/controller/HotelListController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1516,6 +1332,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/service/SearchHotelServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1525,23 +1355,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="75">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/springmvc-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/controller/HotelListController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        <state relative-caret-position="775">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/itrap-search/src/main/java/cn/itrip/beans/SearchHotelVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/resources/database.properties" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/resources/mybatis-config.xml" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/resources/springmvc-servlet.xml" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/resources/systemConfig.properties" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/resources/applicationContext-mybatis.xml" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/java/cn/itrip/service/orderlinkuser/ItripOrderLinkUserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/java/cn/itrip/controller/HotelOrderController.java" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/java/cn/itrip/controller/SystemCommentController.java" />
+    <entry file="file://$PROJECT_DIR$/itrap-service/src/main/java/cn/itrip/controller/UserInfoController.java" />
+    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/TokenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/controller/VendorsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="45" column="3" lean-forward="true" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/exception/TokenValidationFailedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itrap-auth/src/main/java/cn/itrip/auth/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

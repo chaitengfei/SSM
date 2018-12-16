@@ -118,7 +118,7 @@ public class ItripAddCommentVO {
         this.hygieneScore = hygieneScore;
     }
 
-    public String getTripMode() {
+    public Long getTripMode() {
         return tripMode;
     }
 

@@ -19,7 +19,7 @@ import javax.annotation.Resource;
 
 /**
  * 用户管理接口的实现
- * @author hduser
+ * @author A
  *
  */
 @Service("userService")
